@@ -2,7 +2,7 @@
 
 Based on `svelte-ts` from the [Vite documentation](https://vitejs.dev/guide/#trying-vite-online), but with modifications to add Three.js.
 
-See the example running on https://svelte-ts-threejs.pages.dev/. This was deployed using Cloudflare Pages with 2 commands:
+See the example running on https://svelte-ts-threejs.orth.uk/. This was deployed using Cloudflare Pages with 2 commands:
   - build the app: run `pnpm build` (`npm install` first)
   - deploy the app: run `wrangler pages publish dist --project-name=svelte-ts-threejs` (create a Cloudflare account and Pages project first)
 
