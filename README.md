@@ -4,9 +4,9 @@ Usage: run `npx degit https://github.com/ben-xD/svelte-ts-threejs.git#main proje
 
 Based on `svelte-ts` from the [Vite documentation](https://vitejs.dev/guide/#trying-vite-online), but with modifications to add Three.js.
 
-See the example running on https://svelte-ts-threejs.orth.uk/. This was deployed using Cloudflare Pages with 2 commands:
+**Example:** https://svelte-ts-threejs.orth.uk/. Deployed using Cloudflare Pages with 2 commands:
   - build the app: run `pnpm build` (`npm install -g pnpm && pnpm install` first)
-  - deploy the app: run `wrangler pages publish dist --project-name=svelte-ts-threejs` (create a Cloudflare account and Pages project first)
+  - deploy the app: run `wrangler pages publish dist --project-name=svelte-ts-threejs` (create a Cloudflare account and Cloudflare Pages project first)
 
 - Uses
   - Svelte
