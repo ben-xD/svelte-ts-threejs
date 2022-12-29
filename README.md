@@ -2,6 +2,8 @@
 
 Based on `svelte-ts` from the [Vite documentation](https://vitejs.dev/guide/#trying-vite-online), but with modifications to add Three.js.
 
+See the example running on https://svelte-ts-threejs.pages.dev/
+
 - Uses
   - Svelte
   - TypeScript
