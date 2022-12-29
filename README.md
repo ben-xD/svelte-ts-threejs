@@ -9,7 +9,7 @@ See the example running on https://svelte-ts-threejs.orth.uk/. This was deployed
 - Uses
   - Svelte
   - TypeScript
-  - Vite, instead of webpack or rollup
+  - Vite, instead of webpack
   - Three.js
   - pnpm, instead of npm or yarn
 
