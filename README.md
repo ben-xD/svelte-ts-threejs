@@ -1,5 +1,7 @@
 # Svelte + TS + Vite + Three.js
 
+Usage: run `npx degit https://github.com/ben-xD/svelte-ts-threejs.git#main project-name` to create a new folder containing this repo. This uses degit, which is [nicer than cloning a git repo](https://github.com/Rich-Harris/degit#wait-isnt-this-just-git-clone---depth-1).
+
 Based on `svelte-ts` from the [Vite documentation](https://vitejs.dev/guide/#trying-vite-online), but with modifications to add Three.js.
 
 See the example running on https://svelte-ts-threejs.orth.uk/. This was deployed using Cloudflare Pages with 2 commands:
